@@ -1,0 +1,14 @@
+
+#result img{
+    width:100%;
+  }
+  
+  @media(min-width:960px){
+    #result {
+      height: 390px;
+    }
+  
+    #result img{
+      height:240px;
+    }
+  }
